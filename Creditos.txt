@@ -1,0 +1,6 @@
+Músicas: 
+  - https://pixabay.com/music/video-games-arcade-beat-323176/
+  - https://pixabay.com/music/video-games-8bit-video-game-music-289970/
+
+Assets:
+  - Únicos assets de externos usados foram os do "TintaForma", feito no curso do NoneClass
